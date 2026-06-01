@@ -8,3 +8,5 @@ Built with C# and WPF .NET
 - Memory and recall
 - Sentiment detection
 - Error handling
+### YPUTUBE VIDEO HERE
+https://youtu.be/WniSWW8uewI?si=T0MjIaHpZypiXBK2
